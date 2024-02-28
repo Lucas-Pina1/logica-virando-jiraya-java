@@ -1,6 +1,5 @@
 public class CalculadorDiferencaIdade {
     public static void main(String[] args) {
-
         int firstAge = 28;
         int secondAge = 20;
         int ageDifference = firstAge - secondAge;
