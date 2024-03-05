@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class VerificarPorcentagemSalario {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class CalculadorPorcentagemSalario {
 
     public static void main(String[] args) {
