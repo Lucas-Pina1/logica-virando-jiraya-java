@@ -1,8 +1,8 @@
-package academy.devdojo.estruturascondicionais.ifselse;
+package academy.devdojo.estruturascondicionais.switchcase;
 
 import java.util.Scanner;
 
-public class DiasDaSemana {
+public class Aula01DiasDaSemana {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
