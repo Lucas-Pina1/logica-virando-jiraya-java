@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Aula02InicializandoArraysMultidimensionais {
 
     public static void main(String[] args) {
-        int[][] arrayMult1 = new int[2][3];
+        int[][] arrayMult1 = new int[3][3];
 //        arrayMult1[0][0] = 22;
 //        arrayMult1[0][1] = 11;
 //        arrayMult1[0][2] = 54;
